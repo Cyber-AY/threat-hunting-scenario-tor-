@@ -1,6 +1,6 @@
 # AY-Cyber Project
 
-<img width="400" src="https://github.com/user-attachments/assets/44bac428-01bb-4fe9-9d85-96cba7698bee" alt="Tor Logo with the onion and a crosshair on it"/>
+<img width="1280" height="774" alt="image" src="https://github.com/user-attachments/assets/eb8de679-64e4-4982-b058-1912210b6c7a" />
 
 # Threat Hunt Report: Unauthorized TOR Usage
 - [Scenario Creation](https://github.com/Cyber-AY/threat-hunting-scenario-tor-/blob/main/threat-hunting-scenario-tor-event-creation.md)
